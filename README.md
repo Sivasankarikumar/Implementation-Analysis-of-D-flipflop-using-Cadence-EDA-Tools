@@ -18,7 +18,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Procedure
 
 ### 1. Launch Cadence Virtuoso Environment
-- Open the Cadence Virtuoso tool and set up the working library.
+ - Open the Cadence Virtuoso tool and set up the working library.
 - Create a new schematic cell view for the D flip-flop design.
 
 ### 2. Schematic Design
